@@ -25,7 +25,7 @@ The expert system includes the following diseases:
 4. Receive a hypothesis of the possible disease based on the knowledge base.
 
 ## Knowledge Base
-The knowledge base is comprised of researched diseases and their associated symptoms, encoded into Prolog predicates and rules that guide the diagnostic process.
+The knowledge base is comprised of researched diseases and their associated symptoms, encoded into Prolog _predicates_ and _rules_ that guide the diagnostic process.
 
 ## Features
 - Diagnosis through symptom verification
